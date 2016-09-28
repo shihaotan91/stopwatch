@@ -1,0 +1,35 @@
+body {
+  margin-top: 100px;
+}
+
+h1 {
+  /*text-align: center;*/
+  font-size: 80px;
+  display: inline;
+}
+
+#elap {
+  margin-left: 300px;
+  color: black;
+}
+
+.btnDiv {
+  margin: 0 auto;
+  /*align-self: center;*/
+  /*margin-left: 520px;*/
+  width: 600px;
+
+}
+
+.btn {
+  padding: 10 30px;
+  margin: 5px;
+  margin-top: 50px;
+  height: 60px;
+  width: 150px;
+  background-color: blue;
+  size: 35px;
+  color: white;
+  border-radius: 10px;
+
+}
